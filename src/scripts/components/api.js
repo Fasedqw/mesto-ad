@@ -1,5 +1,5 @@
-const GROUP_ID = "";
-const TOKEN = "";
+const GROUP_ID = "apf-cohort-203";
+const TOKEN = "26e37a89-58f2-4916-81bd-69d7d8b90cc8";
 
 const serverSettings = {
   root: `https://mesto.nomoreparties.co/v1/${GROUP_ID}`,
